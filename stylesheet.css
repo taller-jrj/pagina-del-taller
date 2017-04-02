@@ -34,8 +34,8 @@ body {
     display: inline-block;
     color: white;
     background-color: darkblue;
-    /*position: relative;
-    bottom: 256px;*/
+    position: relative;
+    /*bottom: 256px;*/
 }
 
 #pagina_escolar {
