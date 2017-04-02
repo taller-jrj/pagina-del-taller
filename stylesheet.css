@@ -13,13 +13,13 @@ body {
 
 #gif {
     /*margin-left: 30%;*/
-    width: 30%;
+    width: 33%;
     display: inline-block;
     z-index: 0;
 }
 
 .participantes {
-    width: 30%;
+    width: 33%;
     display: inline-block;
     color: white;
     background-color: darkblue;
@@ -30,7 +30,7 @@ body {
 }
 
 .descripcion {
-    width: 30%;
+    width: 33%;
     display: inline-block;
     color: white;
     background-color: darkblue;
