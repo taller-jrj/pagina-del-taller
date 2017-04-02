@@ -1,0 +1,39 @@
+.header {
+    background-color: darkblue;
+    margin: 0;
+    border: solid 0.01px;
+    color: white;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    background-image: url(http://2.bp.blogspot.com/-iUw91DpOglM/Utp5srhdxNI/AAAAAAAAAao/jO1j1m3pOC4/s1600/matrix.gif);
+}
+
+#gif {
+    /*margin-left: 30%;*/
+    size: 40%;
+    display: inline-block;
+    z-index: 0;
+}
+
+.participantes {
+    size: 40%;
+    display: inline-block;
+    color: white;
+    background-color: darkblue;
+    position: relative;
+    /*bottom: 256px;
+    left: 5px*/
+    margin-top: 0px;
+}
+
+.descripcion {
+    size: 40%;
+    display: inline-block;
+    color: white;
+    background-color: darkblue;
+    position: relative;
+    bottom: 256px;
+}
