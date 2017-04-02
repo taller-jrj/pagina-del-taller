@@ -30,7 +30,7 @@ body {
 }
 
 .descripcion {
-    size: 40%;
+    size: 40px;
     display: inline-block;
     color: white;
     background-color: darkblue;
