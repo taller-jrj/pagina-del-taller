@@ -37,3 +37,7 @@ body {
     position: relative;
     bottom: 256px;
 }
+
+#pagina_escolar {
+    color: red;
+}
