@@ -41,3 +41,9 @@ body {
 #pagina_escolar {
     color: red;
 }
+
+.contacto {
+    border: solid 2px white;
+    background-color: darkblue;
+    color: white;
+}
