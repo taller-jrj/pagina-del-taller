@@ -27,6 +27,7 @@ body {
     /*bottom: 256px;
     left: 5px*/
     margin-top: 0px;
+    overflow: auto;
 }
 
 .descripcion {
@@ -36,6 +37,7 @@ body {
     background-color: darkblue;
     position: relative;
     /*bottom: 256px;*/
+    overflow: auto;
 }
 
 #pagina_escolar {
